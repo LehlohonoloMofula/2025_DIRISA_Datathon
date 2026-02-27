@@ -1,5 +1,3 @@
-Here is the **cleaned GitHub‑landing‑page version** with **Success Stories**, **International Competition Vision**, and **Contact** sections removed — leaving only the core Datathon overview and challenges.
-
 ***
 
 # 🎓 DIRISA Student Datathon Challenge 2025
